@@ -26,3 +26,6 @@ CREATE TABLE "Rest_project_registerview" (
 Данные для входа в панель администратора:
 Имя пользователя (leave blank to use 'user'): admin
 Password:1234
+
+Все необходимые для работы проекта библиотеки находятся в папке:
+requirements.txt
