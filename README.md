@@ -1,6 +1,7 @@
 # Django_Rest_Project
 
 SQL script для создания схемы БД:
+
 CREATE TABLE "Rest_project_registerview" (
   "id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, 
   "phone" varchar(12) NOT NULL, 
