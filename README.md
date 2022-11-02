@@ -22,3 +22,7 @@ CREATE TABLE "Rest_project_registerview" (
 - venv\scripts\activate
 - cd project
 - python manage.py runserver
+
+Данные для входа в панель администратора:
+Имя пользователя (leave blank to use 'user'): admin
+Password:1234
