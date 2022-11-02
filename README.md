@@ -1,5 +1,8 @@
 # Django_Rest_Project
 
+Добрый день!
+Тестовое задание для Backend-разработчиков Системы Управления Ресурсами.
+
 SQL script для создания схемы БД:
 
 CREATE TABLE "Rest_project_registerview" (
